@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0435-non-overlapping-intervals) |
 ## Linked List
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,4 +90,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
