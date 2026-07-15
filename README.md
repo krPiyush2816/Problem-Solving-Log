@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0135-candy) |
 | [0268-missing-number](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0435-non-overlapping-intervals) |
+| [1672-richest-customer-wealth](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/1672-richest-customer-wealth) |
 ## Sorting
 |  |
 | ------- |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0389-find-the-difference) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
