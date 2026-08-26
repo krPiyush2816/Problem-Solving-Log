@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0678-valid-parenthesis-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0678-valid-parenthesis-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
 |  |
 | ------- |
