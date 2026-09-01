@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0056-merge-intervals) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0142-linked-list-cycle-ii) |
