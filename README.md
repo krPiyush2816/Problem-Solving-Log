@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0238-product-of-array-except-self) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0142-linked-list-cycle-ii) |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0238-product-of-array-except-self) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
