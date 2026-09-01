@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0435-non-overlapping-intervals) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/krPiyush2816/Problem-Solving-Log/tree/master/0389-find-the-difference) |
 ## Binary Search
